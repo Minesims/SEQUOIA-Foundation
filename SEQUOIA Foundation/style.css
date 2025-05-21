@@ -10,59 +10,193 @@ body {
     color: #E0E0E0;
 }
 
-main {
-    margin: 5%;
-    padding: 5%;
-}
 
-main p {
-    padding: 15px;
-}
+/* nav */
 
 .navbar {
+    position: fixed;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    top: 0;
+    left: 0;
+    width: 100%;
     align-items: center;
     justify-content: center;
     background-color: #232323;
     margin: 0 auto;
-    padding: 20px 30px;
 }
-
-.navbar img {
-    margin: 0 0 15px 0;
-    width: 20%;
-}
-
 .navlink {
-    position: sticky;
     display: flex;
     flex-direction: row;
-    text-align: center;
+    justify-content: center;
+    top: 0;
+    width: 100%;
+    background-color: #232323;
 }
-
 .navlink li {
     list-style-type: none;
-    margin: 10px 10px;
+    text-shadow: 0 5px 10px rgba(100, 100, 100, 0.4);
+    margin: 5px 5px;
+    padding: 10px;
 }
-
-.navbar a {
+.navbar .link {
     color: #E0E0E0;
     text-decoration: none;
-    padding: 5px;
+    padding: 10px;
+    width: 100%;
 }
-
 .navbar a:hover {
-    box-sizing: border-box;
+    width: 100%;
+    border-radius: 5px;
     background-color: #454545;
-    border-radius: 150px;
-    text-decoration: underline;
     transition: all 0.3s ease-in-out;
 }
-
 .navbar span {
     color: #679F5A;
 }
+
+
+.lightswitch {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    padding: 0;
+    border-radius: 50%;
+    background-color: #454545;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    margin: 0 10px 0 5px;
+}
+.lightswitch svg {
+    width: 100%;
+}
+.popup {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 0;
+    right: 0;
+    width: 400px;
+    max-width: 400px;
+    margin-top: 60px;
+    margin-right: -5px;
+    padding: 15px;
+    background-color: #454545;
+    border: 3px solid #1086e0;
+    border-radius: 10px;
+    justify-content: center;
+    z-index: 1;
+}
+.arrow{
+    content: "";
+    position: absolute;
+    right: 5px;
+    top: 55px;
+    height: 15px;
+    width: 15px;
+    background-color: #1086e0;
+    transform: rotate(-45deg);
+}
+.sadearth {
+    position: absolute;
+    width: 150px;
+    top: -50px;
+    left: -70px;
+}
+.popup h2 {
+    margin-bottom: 3px;
+}
+.popup p {
+    margin: 5px 25px 0 25px;
+    text-align: justify;
+}
+.popup .confirm {
+    text-align: center;
+    font-size: 0.7em;
+    margin-top: 15px;
+}
+.choice {
+    display: flex;
+    flex-direction: row;
+    font-size: 0.8em;
+}
+.choice li {
+    list-style-type: none;
+    margin: 10px 0 0 15px;
+    border-radius: 15px;
+    padding: 5px;
+    font-weight: 1000;
+    width: 150px;
+    max-width: 150px;
+    text-align: center;
+    justify-content: center;
+}
+.choice .no {
+    background-color: #4a873b;
+}
+.choice .yes {
+    background-color: #c71212;
+}
+.moreinfo {
+    font-size: 0.8em;
+    color: #969595;
+}
+
+
+.mobilemenu {
+    display: none;
+    font-size: 0.6em;
+    align-items: center;
+    margin: 15px;
+    cursor: pointer;
+}
+
+
+.lang {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 3px;
+}
+.lang svg {
+    height: 22px;
+    max-width: 22px;
+    
+}
+.lang:hover{
+    background-color: #454545;
+    transition: all 0.3s ease-in-out;
+}
+.lang p {
+    padding: 0 0 0 4px;
+    font-size: 0.8em;
+}
+
+/* end nav */
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: auto 5%;
+    padding: 5%;
+}
+main p {
+    padding: 15px;
+    text-align: justify;
+}
+main img {
+    align-self: center;
+    margin: 0 0 25px 0;
+    width: 30%;
+    min-height: 250px;
+    min-width: 250px;
+}
+
 
 footer {
     background-color: #000;
@@ -71,17 +205,60 @@ footer {
     color: #808080;
 }
 
+
+/* botnav */
+
 .bottomnav {
     padding: 15px;
 }
-
 .bottomnav li {
     padding: 2px;
     list-style-type: none;
 }
-
 .bottomnav a {
     color: #E0E0E0;
     text-decoration: none;
     padding: 5px;
 }
+
+/* end botnav */
+
+/* media queries */
+
+@media screen and (max-width: 1100px) {
+    .navbar {
+        justify-content: right;
+    }
+    
+    .navlink {
+        display: none;
+    }
+
+    .mobilemenu {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .popup {
+        max-width: 325px;
+    }
+    .confirm {
+        max-width: 200px;
+    }
+    .choice li {
+        max-width: 100px;
+    }
+}
+@media screen and (max-width: 415px) {
+    .popup {
+        max-width: 315px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .popup {
+        max-width: 300px;
+    }
+}
+
+/* end media queries */

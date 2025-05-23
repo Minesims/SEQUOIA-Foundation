@@ -14,29 +14,29 @@ Navigation :
 
 ======== Développement des catégories ========
 
-Sensibiliser : 
+- Sensibiliser : 
   - C'est quoi la pollution numérique ?
   - C'est quoi l'éco-responsabilité ?
   - Pourquoi c'est important
   - Quels sont les risques ?
   - Qu'est-ce qui provoque ce phénomène ?
-Économiser :
+- Économiser :
   - Comment réduire son empreinte carbone ?
   - Comment 
-Questionner :
+- Questionner :
   - Est-ce que je pollue ?
   - Ai-je des mauvaises habitudes ?
   - Est-ce que l'IA pollue ?
-Unifier :
+- Unifier :
   - Je partage ce que j'apprends
   - Transmettre l'information
-Optimiser :
+- Optimiser :
   - Comment optimiser mon quotidien sans perdre de temps
   - Changer ma façon de naivguer
-Identifier :
+- Identifier :
   - Qu'est-ce qui pollue autour de moi ?
   - Pourquoi et comment ça pollue ?
-Agir :
+- Agir :
   - Quels sont les gestes à apprendre pour réduire sa consommation ?
   - Comment je peux participer à l'éco-responsabilité ?
   - Les associations de lutte contre la pollution numérique

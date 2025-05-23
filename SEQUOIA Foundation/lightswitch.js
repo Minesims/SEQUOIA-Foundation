@@ -8,8 +8,12 @@ const yes = document.querySelector('.yes');
 lightswitch.addEventListener("click", () => {
     lightmode = localStorage.getItem('lightmode');
     popup = localStorage.getItem('status');
-    if(lightmode !== "on" && popup !== "done") {
+    if (popup === "pending") {
+        hidepopup();
+        localStorage.removeItem('status');
+    } else if(lightmode !== "on" && popup !== "done") {
         showpopup();
+        localStorage.setItem('status', 'pending');
     } else if (lightmode !== "on" && popup === "done") {
         enableLightmode();
     } else {
@@ -20,6 +24,7 @@ lightswitch.addEventListener("click", () => {
 
 no.addEventListener("click", () => {
     closepopup();
+    localStorage.removeItem('status');
 })
 
 yes.addEventListener("click", () => {

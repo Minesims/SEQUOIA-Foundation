@@ -91,7 +91,7 @@ Texte :
   - h2
 
 Format :
-  - Flexbox ou Grid
+  - Body flexbox ou grid
   - Header fixed
   - Main background sticky (?)
 

@@ -4,13 +4,13 @@ Navigation :
 
 ======== Chaque lettre de "SEQUOIA" correspond à une catégorie de page ========
 
-S : Sensibiliser - apporter le savoir sur la pollution numérique
-É : Économiser - Apprendre à réduire notre consommation
-Q : Questionner - Savoir remettre en question nos habitudes
-U : Unifier - Que l'écoresponsabilité devienne générique, à la maison et au bureau
-O : Optimiser - Réutiliser les ressources et penser au recyclage
-I : Identifier - Savoir reconnaitre les différentes pollutions
-A : Agir - Mettre en pratique toutes les bonnes pratiques
+- S : Sensibiliser - apporter le savoir sur la pollution numérique
+- É : Économiser - Apprendre à réduire notre consommation
+- Q : Questionner - Savoir remettre en question nos habitudes
+- U : Unifier - Que l'écoresponsabilité devienne générique, à la maison et au bureau
+- O : Optimiser - Réutiliser les ressources et penser au recyclage
+- I : Identifier - Savoir reconnaitre les différentes pollutions
+- A : Agir - Mettre en pratique toutes les bonnes pratiques
 
 ======== Développement des catégories ========
 

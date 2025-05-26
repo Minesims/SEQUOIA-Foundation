@@ -8,6 +8,7 @@
     --nav-color:#232323;
     --foot-color: #000;
     --background-color:#454545;
+    --background-color-rgb: 69, 69, 69;
     --nav-text: #d3d3d3;
     --text-color:#E0E0E0;
     --span-text:#679F5A;
@@ -20,6 +21,7 @@
     --nav-color:#556829;
     --foot-color: #C2B280;
     --background-color:#d3d3d3;
+    --background-color-rgb: 211, 211, 211;
     --nav-text: #d3d3d3;
     --text-color:#000;
     --span-text:#98cc1f;
@@ -273,20 +275,41 @@ footer {
 
 @media screen and (max-width: 1150px) {
     .navbar {
-        justify-content: flex-start;
+        justify-content: space-between;
+    }
+    .mobilemenu {
+        margin-left: auto;
+        gap: 5px;
     }
     .navlink {
-        display: none;
+        position: absolute;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-top: 48px;
+        background-color: rgba(var(--background-color-rgb), 0.7);
+        backdrop-filter: blur(10px);
+        right: -100%;
+        transition: all 0.65s ease-in-out;
+    }
+    .mobilenav {
+        right: 0;
+    }
+    .navlink li {
+        margin: 10px;
+    }
+    .navbar .link {
+        color: var(--text-color);
+    }
+    .navlink a:hover {
+        background-color: var(--nav-color);
     }
     .mobilemenu {
         display: flex;
     }
-    #logo_long {
-        margin-right: auto;
-    }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
     .popup {
         max-width: 325px;
     }
@@ -302,9 +325,9 @@ footer {
         max-width: 315px;
     }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
     .popup {
-        max-width: 300px;
+        width: 100%;
     }
 }
 

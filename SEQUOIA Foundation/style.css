@@ -15,6 +15,7 @@
     --span-text-second:#679F5A;
     --comments-text: #808080;
     --color-hover: #454545;
+    --image-background: #262e13;
 }
 
 .lightmode {
@@ -29,6 +30,7 @@
     --span-text-second:#679F5A;
     --comments-text: #454545;
     --color-hover: #6a8626;
+    --image-background: #f9ecdb;
 }
 
 body {
@@ -39,7 +41,7 @@ body {
     background-color: var(--base-color);
     color: var(--text-color);
     transition: all 0.3s ease-out;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 
 
@@ -224,20 +226,22 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin: 0;
+}
+main .title {
+    padding: 10px;
+    margin-top: 25px;
 }
 h1 {
-    padding: 10px;
     color: var(--span-text);
     text-align: center;
     font-size: 2.7em;
-    margin-top: 25px;
 }
-h2 {
+main h2 {
     padding: 10px;
     color: var(--span-text);
     text-align: center;
-    font-size: 2em;
+    font-size: 1.7em;
     margin-top: 25px;
 }
 main p {
@@ -264,7 +268,8 @@ main .content {
     max-width: 100%;
     max-height: 500px;
     aspect-ratio: 16 / 9;
-    object-fit: cover;
+    object-fit: contain;
+    background-color: var(--image-background);
 }
 .img_contenu_page{
     display: flex;
@@ -273,7 +278,8 @@ main .content {
     max-height: 400px;
     aspect-ratio: 16 / 9;
     object-fit: contain;
-    margin: 30px;
+    padding: 10px;
+    background-color: var(--image-background);
 
 }
 .redirect{

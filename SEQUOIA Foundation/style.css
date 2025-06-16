@@ -297,11 +297,28 @@ main .content {
 
 footer {
     width: 100%;
+    margin-top: auto;
     background-color: var(--foot-color);
     text-align: center;
     justify-content: flex-end;
     font-size: 0.8em;
     color: var(--comments-text);
+}
+
+.cookie{
+    display: flex;
+    justify-content: center;
+    color: var(--span-text-second);
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 50px;
+}
+.img_cookie {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 700px;
+    width: auto;
 }
 
 
@@ -371,6 +388,9 @@ footer {
     .img_contenu{
         width: auto;
     }
+    .img_cookie{
+        max-width: 80%;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -387,6 +407,9 @@ footer {
         display: none;
         visibility: hidden;
     }
+    .img_cookie{
+        max-width: 60%;
+    }
 }
 @media screen and (max-width: 415px) {
     .popup {
@@ -396,6 +419,9 @@ footer {
 @media screen and (max-width: 400px) {
     .popup {
         width: 100%;
+    }
+    .img_cookie{
+        max-width: 50%;
     }
 }
 

@@ -279,7 +279,9 @@ main .content {
     aspect-ratio: 16 / 9;
     object-fit: contain;
     padding: 10px;
-    background-color: var(--image-background);
+    /* background-color: var(--image-background); */
+    background-image: url(Images/fond_feuille.webp);
+    background-size: 50%;
 
 }
 .redirect{

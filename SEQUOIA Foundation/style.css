@@ -233,12 +233,22 @@ h1 {
     font-size: 2.7em;
     margin-top: 25px;
 }
+h2 {
+    padding: 10px;
+    color: var(--span-text);
+    text-align: center;
+    font-size: 2em;
+    margin-top: 25px;
+}
 main p {
     padding: 30px;
     margin: auto 40px;
     text-align: center;
     font-size: 1.25em;
-    padding: 5% 10%;
+    padding: 1% 10%;
+}
+main .content {
+    padding-top: 3%;
 }
 .mainlogo {
     align-self: center;

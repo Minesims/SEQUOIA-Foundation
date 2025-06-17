@@ -253,9 +253,15 @@ main p {
 }
 main .content {
     padding-top: 3%;
+    text-align: center;
 }
 main .content:last-child, .apropos:last-child{
     margin-bottom: 5%;
+}
+
+.content_img{
+    max-width: 900px;
+    margin: 40px auto;
 }
 
 .mainlogo {

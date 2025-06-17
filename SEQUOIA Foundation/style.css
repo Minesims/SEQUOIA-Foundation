@@ -343,7 +343,7 @@ footer {
     width: auto;
 }
 .letter {
-    margin-top: 15px;
+    margin: 15px;
     margin-left: auto;
     margin-right: auto;
     max-width: 700px;
@@ -360,7 +360,8 @@ footer {
     padding: 15px;
 }
 .bottomnav li {
-    padding: 2px;
+    padding: 3px;
+    margin: 1px auto;
     list-style-type: none;
 }
 .bottomnav a {

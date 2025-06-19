@@ -235,10 +235,12 @@ main .title {
 h1 {
     color: var(--span-text);
     text-align: center;
-    font-size: 2.7em;
+    font-size: 2.5em;
+    margin: 15px;
 }
 main h2 {
-    padding: 10px;
+    padding: 15px;
+    margin: 15px;
     color: var(--span-text);
     text-align: center;
     font-size: 1.7em;
@@ -246,7 +248,7 @@ main h2 {
 }
 main p {
     padding: 30px;
-    margin: auto 40px;
+    margin: auto 250px;
     text-align: center;
     font-size: 1.25em;
     padding: 1% 10%;
@@ -254,6 +256,9 @@ main p {
 main .content {
     padding-top: 3%;
     text-align: center;
+}
+.content p {
+    text-align: justify;
 }
 main .content:last-child, .apropos:last-child{
     margin-bottom: 5%;
@@ -381,6 +386,11 @@ footer {
 
 /* media queries */
 
+@media screen and (max-width: 1750px) {
+    main p{
+        margin: auto 150px;
+    }
+}
 @media screen and (max-width: 1300px) {
     .img_contenu_page{
         background-size: 100%;
@@ -388,6 +398,15 @@ footer {
     }
 }
 @media screen and (max-width: 1150px) {
+    main h1{
+        font-size: 2em;
+    }
+    main h2{
+        font-size: 1.5em;
+    }
+    main p{
+        margin: auto 100px;
+    }
     .navbar {
         justify-content: space-between;
     }
@@ -428,8 +447,29 @@ footer {
         max-width: 80%;
     }
 }
-
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 850px) {
+    main h1{
+        font-size: 1.65em;
+    }
+    main h2{
+        font-size: 1.5em;
+    }
+    main p{
+        margin: auto 50px;
+        font-size: 1.1em;
+    }
+}
+@media screen and (max-width: 550px) {
+    main h1{
+        font-size: 1.5em;
+    }
+    main h2{
+        font-size: 1.3em;
+    }
+    main p{
+        margin: auto 5px;
+        font-size: 1em;
+    }
     .popup {
         max-width: 325px;
     }

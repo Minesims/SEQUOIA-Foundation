@@ -246,6 +246,10 @@ main h2 {
     font-size: 1.7em;
     margin-top: 25px;
 }
+main h1, main h2 {
+    padding: 30px;
+    margin: auto 250px;
+}
 main p {
     padding: 30px;
     margin: auto 250px;
@@ -344,7 +348,7 @@ footer {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    max-height: 700px;
+    max-height: 600px;
     width: auto;
 }
 .letter {

@@ -40,6 +40,7 @@
       Prenons l'exemple du logiciel GPT-3, créé par une entreprise appelée OpenAI, GPT-3 est comme un super cerveau de machine qui apprend à comprendre et à utiliser le langage comme nous. 
 
   - Pourquoi est-il important de penser à l'éthique lorsque nous utilisons l'IA pour l'environnement ?
+    
      L'intelligence artificielle (IA) est une technologie prometteuse qui offre de nombreuses opportunités, mais elle soulève également des préoccupations éthiques.
       
       Au niveau des diagnostics médicaux, l’IA peut aider à poser des diagnostics plus précis. Sur les réseaux sociaux, l’IA peut faciliter les  interactions entre les personnes ou diffuser rapidement de l’information. L’IA peut également libérer les humains de tâches répétitives et dangereuses. 
@@ -49,3 +50,35 @@
       Mais l'éthique concerne aussi l'environnement lui-même. L'IA consomme beaucoup d'énergie, et si celle-ci provient de sources polluantes, cela peut nuire à notre planète. Par exemple, le simple entraînement d'une IA équivaut en termes de CO2 aux émissions de 205 allers-retours Paris/New York en avion.
       
       L’IA est une technologie très puissante qui peut avoir une influence positive ou négative sur la société. Il est important de réfléchir aux implications éthiques de l’IA et de développer des cadres de gouvernance qui garantiront une utilisation responsable.
+
+  - L'intelligence artificielle peut-elle contribuer à la conservation de la biodiversité ?
+    
+    L'intelligence artificielle, ou IA, a le potentiel de jouer un rôle majeur dans la conservation de la biodiversité. Elle peut aider à surveiller les espèces menacées, à prédire les changements dans leurs habitats et à mieux comprendre comment protéger la diversité de la vie sur notre planète. Il existe une intelligence artificielle qui peut identifier une espèce avec 80 à 90 % de précision (Cscience, 2020).
+    
+    Par exemple, certains scientifiques utilisent l'IA pour analyser les images des caméras de surveillance dans les parcs naturels. L'IA peut rapidement identifier les différentes espèces et observer leurs comportements, ce qui serait un travail très long et difficile pour les humains.
+    
+    L'IA est également utilisée pour prédire comment les changements climatiques pourraient affecter les habitats de différentes espèces. Ces informations peuvent aider à planifier des actions de conservation pour protéger ces espèces.
+    
+    Cependant, l'utilisation de l'IA pour la conservation de la biodiversité comporte aussi des défis. Par exemple, les données nécessaires pour entraîner l'IA peuvent être difficiles à obtenir. De plus, comme pour toute technologie, l'IA utilise de l'énergie et peut générer des déchets électroniques.
+    
+    Donc, bien que l'IA ait un potentiel énorme pour aider à la conservation de la biodiversité, il est essentiel de l'utiliser de manière responsable et éthique.
+
+    L'intelligence artificielle, ou IA, peut jouer un rôle important dans la gestion des déchets. Elle peut, par exemple, aider à trier les déchets de manière plus précise et rapide, ce qui permet de recycler plus et de jeter moins.
+
+Il y a des projets innovants qui utilisent l'IA pour cela. Par exemple, certains robots équipés d'IA peuvent reconnaître et trier différents types de déchets, augmentant l'efficacité du recyclage. Recycleye propose une intelligence artificielle pouvant aller jusqu’à 33 000 prélèvements en 10 heures (Recycleye, 2022). Dans certaines villes, l'IA est même utilisée pour optimiser la collecte des déchets, en déterminant les itinéraires les plus efficaces pour les camions poubelles.
+
+Cependant, l'utilisation de l'IA pour la gestion des déchets comporte aussi des défis. Par exemple, l'IA a besoin de beaucoup de données pour apprendre à reconnaître les différents types de déchets. De plus, il faut aussi penser à l'énergie nécessaire pour faire fonctionner ces systèmes d'IA, et à la fin de leur vie, ces systèmes deviennent eux-mêmes des déchets.
+
+Donc, même si l'IA a le potentiel d'améliorer la gestion des déchets, il est important de réfléchir aux impacts éthiques et environnementaux de son utilisation.
+
+ - L’intelligence artificielle peut elle aider à protéger les océans ?
+   
+    L'intelligence artificielle peut aussi nous aide à mieux comprendre et protéger la nature. Elle peut permettre à certains robots, qui ressemblent beaucoup à des animaux, de faire des choses incroyables.
+    
+    Prenons l'exemple des robots-poissons, grâce à l'IA, ils peuvent nager dans l'océan, observer les vrais poissons et comprendre comment ils vivent. Ces informations sont très utiles pour nous aider à protéger l'océan et tous ses habitants.
+    
+    Mais souvenez-vous, même si ces robots-animaux sont utile, ils ont besoin d'énergie pour fonctionner. C'est pourquoi il est important de réfléchir à comment nous pouvons utiliser moins d'énergie et prendre soin de notre belle planète.
+
+- Les flux vidéos
+
+    - 

@@ -79,6 +79,27 @@
     
     Mais souvenez-vous, même si ces robots-animaux sont utile, ils ont besoin d'énergie pour fonctionner. C'est pourquoi il est important de réfléchir à comment nous pouvons utiliser moins d'énergie et prendre soin de notre belle planète.
 
-- Les flux vidéos
+- Les flux vidéos / Le streaming
 
-    - 
+    - En quoi les plateformes de vidéos polluent-elles ?
+      
+      Durant l’année 2018, la consommation de vidéos a généré autant de CO2 qu’un pays comme l’Espagne ! Cette pollution provient de la quantité nécessaire d’électricité dont les data centers (qui stockent toutes les vidéos) ont besoin pour fonctionner et aussi pour refroidir. Cette pollution provient également de la fabrication de ces data center.
+
+    - Que faire pour limiter cette pollution ?
+      
+      Pour diminuer la pollution due au visionnage de vidéos sur Internet, la première solution est de limiter sa consommation en déterminant une limite de temps par jour. 
+      
+      La deuxième solution facile à mettre en place est de baisser la qualité de la vidéo au minimum lorsqu’on écoute le son sans regarder l’image, ou de diminuer un peu la qualité lorsqu’on regarde la vidéo. 
+      
+      La troisième solution est de télécharger les vidéos sur les plateformes (comme Netflix et Disney+) quand on est en wifi plutôt que de les regarder en streaming en utilisant la 4G. 
+      
+      Une quatrième solution est de désactiver la lecture automatique des vidéos sur les plateforme de streaming ou les réseaux sociaux.
+      
+    - Pourquoi le streaming contribue-t-il au changement climatique/ à la pollution numérique ?
+      
+      Dans les 4% d’émission de gaz à effet de serre produit par le numérique, 80% sont dédiés aux flux vidéos. Dans un premier temps, cela est dû à la production nécessaire à l’acheminement des vidéos stockées dans le data center vers les terminaux (tablette, smartphone…). Ensuite, le format vidéo est lourd. Selon le rapport de The Shift Project (Efoui-Hess, 2019), 10 heures de streaming vidéo en ligne représentent davantage de données que l’intégralité des textes Wikipédia anglais. La taille du fichier est également très polluante, le film Pulp Fiction en Haute Définition sur Netflix représente à lui seul 10 giga-octets, contre 50 kilo-octets pour un mail sans pièce jointe, soit 200 000 fois plus.
+      
+    -  Quel est le coût environnemental du streaming vidéo ?
+
+       On estime qu’une personne ayant regardé la série Game of Thrones a généré une émission de 8,8 kg de CO2, ce qui est égal à un parcours de 130 km pour une voiture citadine. Les séries Stranger Things et Breaking Bad correspondent quant à elles à 2,8 et 6,3 kg de CO2. Regarder des vidéos Youtube représente l’émission de 11,3 millions de tonnes de gaz à effet de serre, chaque année. Son empreinte carbone annuelle équivaut à 2 millions de fois le tour du monde en avion ou bien la pollution totale générée par une ville de 600 000 d’habitants. 
+        

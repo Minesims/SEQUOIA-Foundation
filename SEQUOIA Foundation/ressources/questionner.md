@@ -31,3 +31,21 @@
     La startup Uze a lancé Eugène, une poubelle intelligente, qui fonctionne grâce à un boîtier qui permet à son utilisateur de trier ses déchets en scannant le code-barre de l’article. Il existe également “hydrao”, un pommeau de douche connecté pour réaliser des économies d’eau en contrôlant celle-ci. De plus, il fonctionne grâce au débit de l’eau donc, il n’y a pas d'électricité utilisée. Enfin, il existe aussi des ampoules connectées et des thermostats qui permettent de diminuer les consommations d'énergies et de ne pas gaspiller d'électricité. 
     
     Cependant, ce type d'objet connecté, qui nous aider à mieux gérer nos ressources, reste assez rare. Il est donc important de garder un avis nuancé sur la question.
+
+- Intelligence Artificielle
+
+    - Quel est l’impact environnemental de l’intelligence artificielle ?
+Saviez-vous	que l'intelligence artificielle, même si on ne la voit pas, peut avoir un gros impact sur notre environnement ? Même si nous ne le voyons pas, les machines derrière l'IA utilisent énormément d'électricité !
+
+Prenons l'exemple du logiciel GPT-3, créé par une entreprise appelée OpenAI, GPT-3 est comme un super cerveau de machine qui apprend à comprendre et à utiliser le langage comme nous. 
+
+  - Pourquoi est-il important de penser à l'éthique lorsque nous utilisons l'IA pour l'environnement ?
+ L'intelligence artificielle (IA) est une technologie prometteuse qui offre de nombreuses opportunités, mais elle soulève également des préoccupations éthiques.
+
+Au niveau des diagnostics médicaux, l’IA peut aider à poser des diagnostics plus précis. Sur les réseaux sociaux, l’IA peut faciliter les  interactions entre les personnes ou diffuser rapidement de l’information. L’IA peut également libérer les humains de tâches répétitives et dangereuses. 
+
+Cependant, l’IA peut aussi représenter une menace pour les droits humains, dégrader le  climat et créer des divisions sociales. L’IA peut permettre un contrôle de l’information. 
+
+Mais l'éthique concerne aussi l'environnement lui-même. L'IA consomme beaucoup d'énergie, et si celle-ci provient de sources polluantes, cela peut nuire à notre planète. Par exemple, le simple entraînement d'une IA équivaut en termes de CO2 aux émissions de 205 allers-retours Paris/New York en avion.
+
+L’IA est une technologie très puissante qui peut avoir une influence positive ou négative sur la société. Il est important de réfléchir aux implications éthiques de l’IA et de développer des cadres de gouvernance qui garantiront une utilisation responsable.

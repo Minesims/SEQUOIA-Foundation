@@ -71,7 +71,7 @@
     
     Donc, même si l'IA a le potentiel d'améliorer la gestion des déchets, il est important de réfléchir aux impacts éthiques et environnementaux de son utilisation.
 
-   - L’intelligence artificielle peut elle aider à protéger les océans ?
+    - L’intelligence artificielle peut elle aider à protéger les océans ?
    
     L'intelligence artificielle peut aussi nous aide à mieux comprendre et protéger la nature. Elle peut permettre à certains robots, qui ressemblent beaucoup à des animaux, de faire des choses incroyables.
     

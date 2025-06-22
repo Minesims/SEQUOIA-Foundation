@@ -65,13 +65,13 @@
 
     L'intelligence artificielle, ou IA, peut jouer un rôle important dans la gestion des déchets. Elle peut, par exemple, aider à trier les déchets de manière plus précise et rapide, ce qui permet de recycler plus et de jeter moins.
 
-Il y a des projets innovants qui utilisent l'IA pour cela. Par exemple, certains robots équipés d'IA peuvent reconnaître et trier différents types de déchets, augmentant l'efficacité du recyclage. Recycleye propose une intelligence artificielle pouvant aller jusqu’à 33 000 prélèvements en 10 heures (Recycleye, 2022). Dans certaines villes, l'IA est même utilisée pour optimiser la collecte des déchets, en déterminant les itinéraires les plus efficaces pour les camions poubelles.
+    Il y a des projets innovants qui utilisent l'IA pour cela. Par exemple, certains robots équipés d'IA peuvent reconnaître et trier différents types de déchets, augmentant l'efficacité du recyclage. Recycleye propose une intelligence artificielle pouvant aller jusqu’à 33 000 prélèvements en 10 heures (Recycleye, 2022). Dans certaines villes, l'IA est même utilisée pour optimiser la collecte des déchets, en déterminant les itinéraires les plus efficaces pour les camions poubelles.
+    
+    Cependant, l'utilisation de l'IA pour la gestion des déchets comporte aussi des défis. Par exemple, l'IA a besoin de beaucoup de données pour apprendre à reconnaître les différents types de déchets. De plus, il faut aussi penser à l'énergie nécessaire pour faire fonctionner ces systèmes d'IA, et à la fin de leur vie, ces systèmes deviennent eux-mêmes des déchets.
+    
+    Donc, même si l'IA a le potentiel d'améliorer la gestion des déchets, il est important de réfléchir aux impacts éthiques et environnementaux de son utilisation.
 
-Cependant, l'utilisation de l'IA pour la gestion des déchets comporte aussi des défis. Par exemple, l'IA a besoin de beaucoup de données pour apprendre à reconnaître les différents types de déchets. De plus, il faut aussi penser à l'énergie nécessaire pour faire fonctionner ces systèmes d'IA, et à la fin de leur vie, ces systèmes deviennent eux-mêmes des déchets.
-
-Donc, même si l'IA a le potentiel d'améliorer la gestion des déchets, il est important de réfléchir aux impacts éthiques et environnementaux de son utilisation.
-
- - L’intelligence artificielle peut elle aider à protéger les océans ?
+   - L’intelligence artificielle peut elle aider à protéger les océans ?
    
     L'intelligence artificielle peut aussi nous aide à mieux comprendre et protéger la nature. Elle peut permettre à certains robots, qui ressemblent beaucoup à des animaux, de faire des choses incroyables.
     

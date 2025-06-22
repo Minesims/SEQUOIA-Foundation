@@ -254,8 +254,15 @@ main p {
     padding: 30px;
     margin: auto 250px;
     text-align: center;
+    font-size: 1.15em;
+    padding: 1% 10%;
+}
+main h3 {
+    padding: 30px;
+    margin: auto 250px;
     font-size: 1.25em;
     padding: 1% 10%;
+    color: var(--span-text);
 }
 main .content {
     padding-top: 3%;

@@ -120,8 +120,8 @@
 
     - Peut-on réduire l'impact écologique d'un data center ?
  
-    Il existe une solution qui consiste à imerger le data center dans l'eau. Immerger un data center est plus écologique, car cela permet d’utiliser moins d’énergie. En effet, les ordinateurs sous l’eau sont naturellement refroidis. Cette solution permet également de réduire la distance entre les serveurs et les utilisateurs. C’est aussi moins coûteux !
-
-    Le taux de défaillance des serveurs sous-marins est moindre que ceux des serveurs terrestres. L'empreinte carbone est limitée en plaçant les serveurs près des villes côtières, éloignées des continents. 
-    
-    Mais attention ! Les data centers sous-marins peuvent aussi avoir un impact négatif. En effet, ils chauffent l'eau autour d'eux, un peu comme un radiateur dans une pièce. Cette chaleur supplémentaire peut perturber la faune et la flore marines habituées à vivre dans une eau à une certaine température. Cela pourrait même nuire à la biodiversité ! En effet, si l'eau devient trop chaude, certains animaux et plantes pourraient avoir du mal à survivre, ce qui pourrait complètement perturber l'équilibre de la vie sous-marine et l'écosystème.
+      Il existe une solution qui consiste à imerger le data center dans l'eau. Immerger un data center est plus écologique, car cela permet d’utiliser moins d’énergie. En effet, les ordinateurs sous l’eau sont naturellement refroidis. Cette solution permet également de réduire la distance entre les serveurs et les utilisateurs. C’est aussi moins coûteux !
+  
+      Le taux de défaillance des serveurs sous-marins est moindre que ceux des serveurs terrestres. L'empreinte carbone est limitée en plaçant les serveurs près des villes côtières, éloignées des continents. 
+      
+      Mais attention ! Les data centers sous-marins peuvent aussi avoir un impact négatif. En effet, ils chauffent l'eau autour d'eux, un peu comme un radiateur dans une pièce. Cette chaleur supplémentaire peut perturber la faune et la flore marines habituées à vivre dans une eau à une certaine température. Cela pourrait même nuire à la biodiversité ! En effet, si l'eau devient trop chaude, certains animaux et plantes pourraient avoir du mal à survivre, ce qui pourrait complètement perturber l'équilibre de la vie sous-marine et l'écosystème.

@@ -104,5 +104,24 @@
       
     -  Quel est le coût environnemental du streaming vidéo ?
 
-       On estime qu’une personne ayant regardé la série Game of Thrones a généré une émission de 8,8 kg de CO2, ce qui est égal à un parcours de 130 km pour une voiture citadine. Les séries Stranger Things et Breaking Bad correspondent quant à elles à 2,8 et 6,3 kg de CO2. Regarder des vidéos Youtube représente l’émission de 11,3 millions de tonnes de gaz à effet de serre, chaque année. Son empreinte carbone annuelle équivaut à 2 millions de fois le tour du monde en avion ou bien la pollution totale générée par une ville de 600 000 d’habitants. 
-        
+       On estime qu’une personne ayant regardé la série Game of Thrones a généré une émission de 8,8 kg de CO2, ce qui est égal à un parcours de 130 km pour une voiture citadine. Les séries Stranger Things et Breaking Bad correspondent quant à elles à 2,8 et 6,3 kg de CO2. Regarder des vidéos Youtube représente l’émission de 11,3 millions de tonnes de gaz à effet de serre, chaque année. Son empreinte carbone annuelle équivaut à 2 millions de fois le tour du monde en avion ou bien la pollution totale générée par une ville de 600 000 d’habitants.
+
+- Les Data Centers
+
+    - Pourquoi les data centers polluent-ils ?
+      
+      Un data center, c’est une pièce qui regroupe de nombreux ordinateurs empilés et qui fonctionnent continuellement. Ces ordinateurs stockent et traitent toutes les données des utilisateurs d’Internet. Pour qu’ils fonctionnent, ils ont besoin de beaucoup d'électricité. On considère que d’ici 2030, 10% de la production mondiale d’électricité sera réservée aux data centers. La moitié de l’électricité utilisée par ceux-ci sert à refroidir les ordinateurs. De plus, les systèmes de refroidissement utilisent des produits chimiques dangereux ainsi que des batteries dont l’extraction des composants est néfaste pour la Terre. Ces batteries sont également mal recyclées.
+
+      ![image](https://github.com/user-attachments/assets/24001547-b75c-4f98-ac88-18eac4e65edf)
+
+    - Que peut-on faire d'autre pour que les data centers polluent moins ?
+ 
+      Il y a plusieurs solutions pour réduire l’impact écologique des data centers. On peut par exemple, construire des data centers dans des pays ou des régions où il fait naturellement plus froid comme en Finlande par exemple. Cependant, cela peut augmente la distance entre les serveurs et les utilisateurs. Une autre solution est celle d’utiliser le surplus de chaleur produit par les ordinateurs pour chauffer des bureaux ou des logements. Afin de réduire l’empreinte écologique des data centers, on peut également les alimenter avec des énergies renouvelables comme des panneaux solaires ou des éoliennes.
+
+    - Peut-on réduire l'impact écologique d'un data center ?
+ 
+    Il existe une solution qui consiste à imerger le data center dans l'eau. Immerger un data center est plus écologique, car cela permet d’utiliser moins d’énergie. En effet, les ordinateurs sous l’eau sont naturellement refroidis. Cette solution permet également de réduire la distance entre les serveurs et les utilisateurs. C’est aussi moins coûteux !
+
+    Le taux de défaillance des serveurs sous-marins est moindre que ceux des serveurs terrestres. L'empreinte carbone est limitée en plaçant les serveurs près des villes côtières, éloignées des continents. 
+    
+    Mais attention ! Les data centers sous-marins peuvent aussi avoir un impact négatif. En effet, ils chauffent l'eau autour d'eux, un peu comme un radiateur dans une pièce. Cette chaleur supplémentaire peut perturber la faune et la flore marines habituées à vivre dans une eau à une certaine température. Cela pourrait même nuire à la biodiversité ! En effet, si l'eau devient trop chaude, certains animaux et plantes pourraient avoir du mal à survivre, ce qui pourrait complètement perturber l'équilibre de la vie sous-marine et l'écosystème.

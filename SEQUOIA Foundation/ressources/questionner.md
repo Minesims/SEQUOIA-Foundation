@@ -97,7 +97,10 @@
       
     - Pourquoi le streaming contribue-t-il au changement climatique/ à la pollution numérique ?
       
-      Dans les 4% d’émission de gaz à effet de serre produit par le numérique, 80% sont dédiés aux flux vidéos. Dans un premier temps, cela est dû à la production nécessaire à l’acheminement des vidéos stockées dans le data center vers les terminaux (tablette, smartphone…). Ensuite, le format vidéo est lourd. Selon le rapport de The Shift Project (Efoui-Hess, 2019), 10 heures de streaming vidéo en ligne représentent davantage de données que l’intégralité des textes Wikipédia anglais. La taille du fichier est également très polluante, le film Pulp Fiction en Haute Définition sur Netflix représente à lui seul 10 giga-octets, contre 50 kilo-octets pour un mail sans pièce jointe, soit 200 000 fois plus.
+      Dans les 4% d’émission de gaz à effet de serre produit par le numérique, 80% sont dédiés aux flux vidéos. Dans un premier temps, cela est dû à la production nécessaire à l’acheminement des vidéos stockées dans le data center vers les terminaux (tablette, smartphone…). Ensuite, le format vidéo est lourd. Il est estimé que 10 heures de streaming vidéo en ligne représentent davantage de données que l’intégralité des textes Wikipédia anglais. La taille du fichier est également très polluante, le film Pulp Fiction en Haute Définition sur Netflix représente à lui seul 10 giga-octets, contre 50 kilo-octets pour un mail sans pièce jointe, soit 200 000 fois plus.
+
+      ![image](https://github.com/user-attachments/assets/1f5f2ded-d529-4ca7-afc7-78f0f5bd36e9)
+
       
     -  Quel est le coût environnemental du streaming vidéo ?
 

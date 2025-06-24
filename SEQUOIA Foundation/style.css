@@ -15,7 +15,7 @@
     --span-text-second:#679F5A;
     --comments-text: #808080;
     --color-hover: #454545;
-    --image-background: #262e13;
+    --image-background: #576141;
 }
 
 .lightmode {
@@ -274,8 +274,25 @@ main .content {
 main .content:last-child, .apropos:last-child{
     margin-bottom: 5%;
 }
-
-.content_img{
+.allies {
+    margin: 25px 400px 0 400px;
+    padding: 50px;
+    object-fit: contain;
+    background-color: var(--image-background);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+}
+.allies img {
+    max-width: 250px;
+    margin: 20px;
+    align-items: center;
+}
+.allies img:hover {
+    box-shadow: 0 5px 10px rgba(25, 25, 25, 0.6);
+    transition: all 0.3s ease-in-out;
+}
+.content_img {
     max-width: 900px;
     margin: 40px auto;
 }
